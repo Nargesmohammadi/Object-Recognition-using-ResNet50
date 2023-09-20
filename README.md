@@ -6,17 +6,7 @@ This repository contains code for object recognition using the ResNet50 deep lea
 
 
 
-```
-pip install tensorflow keras numpy matplotlib pillow
-```
 
-Once you have the required packages installed, you can clone this repository to your local machine:
-
-```
-git clone https://github.com/your-username/object-recognition-resnet50.git
-```
-
-## Usage
 
 To use the ResNet50 model for object recognition, you can run the `predict.py` script:
 
