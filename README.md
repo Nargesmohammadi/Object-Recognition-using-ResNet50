@@ -3,3 +3,6 @@
 
 
 This repository contains code for object recognition using the ResNet50 deep learning model. The ResNet50 model is a convolutional neural network (CNN) that has been pre-trained on the ImageNet dataset, which contains over 1 million images and 1000 classes.
+
+## Dataset
+The dataset that is used in this project is CIFAR-10 from Kaggle: https://www.kaggle.com/c/cifar-10
