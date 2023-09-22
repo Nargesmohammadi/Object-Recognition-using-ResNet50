@@ -5,7 +5,7 @@ This repository contains code for object recognition using ResNet50, a pre-train
 
 ## Dataset
 
- It contains images of various objects such as airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks. The labels for these images are available in the `trainLabels.csv` file.
+ The dataset used in this project is taken from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html). It contains images of various objects such as airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks. The labels for these images are available in the `trainLabels.csv` file.
 
 ## Code
 
