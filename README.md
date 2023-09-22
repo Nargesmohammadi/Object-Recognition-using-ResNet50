@@ -30,11 +30,6 @@ To run this code, you need to have the following libraries installed:
 - OpenCV
 - TensorFlow
 
-## How to Use
-
-1. Clone this repository to your local machine.
-2. Open the `object_recognition_using_resnet50.ipynb` Jupyter Notebook file.
-3. Run the code cells in the notebook to see the results.
 
 ## Credits
 
