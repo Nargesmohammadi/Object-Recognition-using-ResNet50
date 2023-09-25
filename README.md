@@ -18,7 +18,7 @@ The code is available in the `object_recognition_using_resnet50.ipynb` Jupyter N
 5. Scaling the data
 6. Building the neural network using ResNet50
 7. Compiling and training the neural network
-8. 
+8. Making 
 
 ## Requirements
 
